@@ -1,0 +1,11 @@
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\bin\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.exe
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\bin\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.deps.json
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\bin\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.runtimeconfig.json
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\bin\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.runtimeconfig.dev.json
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\bin\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.dll
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\bin\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.pdb
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\obj\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.csprojAssemblyReference.cache
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\obj\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.AssemblyInfoInputs.cache
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\obj\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.AssemblyInfo.cs
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\obj\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.dll
+D:\Epam\NET.S.2020.Aristova.06\NET.S.2020.Aristova.06\obj\Debug\netcoreapp3.1\NET.S.2020.Aristova.06.pdb
